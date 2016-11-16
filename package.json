@@ -1,0 +1,27 @@
+{
+  "name": "solr_data_collector",
+  "title": "Solr Data Collector",
+  "description": "collect data from solr",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Eric Xia",
+    "email": "ericxia7@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightbluex/solr_data_collector.git"
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "request": "request/request",
+    "dateformat": "felixge/node-dateformat"
+  },
+  "keywords": []
+}

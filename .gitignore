@@ -1,0 +1,3 @@
+/node_modules
+/results/customer_ratings/*.tsv
+/results/customer_review/*.tsv
